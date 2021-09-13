@@ -10,6 +10,7 @@ The model we used is a BERT-based pre-trained model calls CamemBERT on which we 
 
 To perform the fine-tuning, we used film commentaries scrapped from the allocine.fr website 
 
+
 François Lievens \
 Julien Hubar\
 Andreas Duquenne\
